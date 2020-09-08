@@ -21,3 +21,4 @@ SCREENSHOTS
     <img src="https://user-images.githubusercontent.com/67824486/91633587-93837200-e9e1-11ea-8e21-6450aa0c94e5.png" width="250" hspace="4">
   <img src="https://user-images.githubusercontent.com/67824486/91634009-dabf3200-e9e4-11ea-866f-5ca15328ae35.png" width="250" hspace="4">
 </p>
+![Uploading Simulator Screen Shot - iPhone 11 Pro Max - 2020-07-19 at 15.22.42.png…]()
